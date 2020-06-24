@@ -137,7 +137,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20180902120523.19">## Week 2 會議記錄
 
-&lt;iframe src="https://youtu.be/HXS95dlMSv8" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HXS95dlMSv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
@@ -508,8 +508,7 @@ IPV6 下伺服器連線設定</t>
 </t>
 <t tx="leo.20200624201321.2">## Week 6 會議記錄
 
-&lt;iframe src="https://youtu.be/B6zwMXl1V3Y" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/B6zwMXl1V3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624201324.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -521,8 +520,7 @@ IPV6 下伺服器連線設定</t>
 </t>
 <t tx="leo.20200624201324.2">## Week 10 會議記錄
 
-&lt;iframe src="https://youtu.be/jr4IxIwdHLk" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jr4IxIwdHLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624201326.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -534,8 +532,7 @@ IPV6 下伺服器連線設定</t>
 </t>
 <t tx="leo.20200624201326.2">## Week 11 會議記錄
 
-&lt;iframe src="https://youtu.be/rMHvI863RMo" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rMHvI863RMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624201605.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -547,7 +544,7 @@ IPV6 下伺服器連線設定</t>
 </t>
 <t tx="leo.20200624201605.2">## Week 12 會議記錄
 
-&lt;iframe src="https://youtu.be/FTxEnqCzvxA" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FTxEnqCzvxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20200624201607.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -560,7 +557,7 @@ IPV6 下伺服器連線設定</t>
 </t>
 <t tx="leo.20200624201607.2">## Week 13 會議記錄
 
-&lt;iframe src="https://youtu.be/TBn09TLJ3HQ" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/TBn09TLJ3HQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20200624201701.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -573,7 +570,6 @@ IPV6 下伺服器連線設定</t>
 </t>
 <t tx="leo.20200624201701.2">## Week 14 會議記錄
 
-&lt;iframe src="https://youtu.be/q_bKmJw3Hn4" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/q_bKmJw3Hn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
